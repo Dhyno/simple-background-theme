@@ -1,6 +1,6 @@
 # simple-background-theme
 ## inspiration
-  design from [Alex Arutuyno](https://dribbble.com/shots/13980015-Dashboard-Changing-color-theme)
+  design from [Alex Arutuyno](https://dribbble.com/shots/13980015-Dashboard-Changing-color-theme)/
   sumber belajar [web unpas lord pak shandika](https://www.youtube.com/c/WebProgrammingUNPAS)
   
 ## review
