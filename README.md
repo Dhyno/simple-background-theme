@@ -4,3 +4,4 @@
   
 ## review
   [review](https://dhyno.github.io/simple-background-theme/)
+  <img src="asset/image/result1.png">
