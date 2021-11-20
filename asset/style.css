@@ -311,10 +311,6 @@ footer img:hover {
     nav {
         width: 90%;
     }
-    
-    .container {
-        margin: 5vmax 0;
-    }
 }
 
 @media(min-width:768px) and (max-width:1020px) {
@@ -466,7 +462,7 @@ footer img:hover {
 
 @media(max-width:359px)  {
     .container {
-        margin: 10% 0;
+        margin: 6vmax 0 0 0;
     }
 
     .speed .text {
