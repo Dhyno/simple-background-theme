@@ -466,6 +466,9 @@ footer img:hover {
 }
 
 @media(max-width:359px)  {
+    .container {
+        margin: 5vmax 0;
+    }
 
     .speed .text {
         font-size: 2rem;
