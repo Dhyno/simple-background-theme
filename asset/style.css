@@ -3,7 +3,6 @@
     margin: 0;
 }
 body,html {
-    overflow: hidden;
     background:linear-gradient(to bottom,rgb(96, 83, 136),rgb(57, 44, 99)) no-repeat;
     height: 100vh;
 }
@@ -313,8 +312,8 @@ footer img:hover {
         width: 90%;
     }
     
-    .container{
-        margin: 0;
+    .container {
+        margin: 5vmax 0;
     }
 }
 
@@ -467,13 +466,13 @@ footer img:hover {
 
 @media(max-width:359px)  {
     .container {
-        margin: 5vmax 0;
+        margin: 10% 0;
     }
 
     .speed .text {
         font-size: 2rem;
-        position: absolute;
-        margin: 31vmax 0 0 -39px;
+        position: absolute; 
+        margin: 200px 0 0 -39px;
     }
 
     .speed {
